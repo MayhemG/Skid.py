@@ -1,3 +1,6 @@
+#MayhemG. Only jokes :) 
+
+
 Skid = {'Xresolver':'Alright you skid https://xresolver.com/ ',
             'Wireshark':' Some skids trying ddos you go to https://www.wireshark.org/',
             'Kali Linux':'YESSS SIR GOTTA HAVE A KALI VM FOR DEM SKIDS https://www.kali.org/ ',
